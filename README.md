@@ -7,8 +7,8 @@
 
 ---
 
-### 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=nishida675&theme=vue-dark)](https://git.io/streak-stats)
+### ⏱ WakaTime Stats
+[![nishida675's wakatime stats](https://github-readme-stats-lyart-nine-53.vercel.app/api/wakatime?username=nishida675&theme=vue-dark)](https://wakatime.com/@nishida675)
 
 ---
 
@@ -20,7 +20,3 @@
 ### 📝 Latest Activity
 [![nishida675's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishida675&theme=vue-dark)](https://github.com/nishida675)
 
----
-
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=nishida675&color=blue&style=flat-square)
